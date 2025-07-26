@@ -1,5 +1,5 @@
 {
-  "name": "DarkcisMVCUI",
+  "name": "com.darkcis.mvcui",
   "version": "0.1.0",
   "displayName": "Darkcis MVC UI",
   "description": "Reusable UI components with MVC-ready architecture: toggles, containers, and custom elements for Unity.",
